@@ -1,1 +1,1 @@
-console.log("pay")
+console.log("vodafone cash pay")
